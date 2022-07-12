@@ -1,6 +1,13 @@
-public struct Scene {
-    public private(set) var text = "Hello, World!"
+import Foundation
+import Dynamics
+import Component
+import Entity
 
-    public init() {
-    }
+public final class Scene: Codable {
+
+  private var entityTable: [EntityIdentifier: ComponentSet]
+
+  public init() {
+    entityTable = [:]
+  }
 }

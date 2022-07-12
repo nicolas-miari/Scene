@@ -1,0 +1,77 @@
+{
+  "pins" : [
+    {
+      "identity" : "component",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nicolas-miari/Component.git",
+      "state" : {
+        "revision" : "02a14fe587102ee46a97cf4461b4cf6d6da4e9cd",
+        "version" : "0.0.2"
+      }
+    },
+    {
+      "identity" : "dynamics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nicolas-miari/Dynamics.git",
+      "state" : {
+        "revision" : "6e20003c74569c104ff00bef3012e14ccf0a91a5",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "entity",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nicolas-miari/Entity.git",
+      "state" : {
+        "revision" : "0f2f06379561fcd28d596b18010e2981ad2468ed",
+        "version" : "0.0.0"
+      }
+    },
+    {
+      "identity" : "identifier",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nicolas-miari/Identifier.git",
+      "state" : {
+        "revision" : "c942cc5dd28c5f3b03602c5fd78d2995047e5907",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "matrixutils",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nicolas-miari/MatrixUtils.git",
+      "state" : {
+        "revision" : "8f2363edca6bd853f5d38034a3314fe5584a6163",
+        "version" : "0.0.0"
+      }
+    },
+    {
+      "identity" : "rigidbody",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nicolas-miari/RigidBody.git",
+      "state" : {
+        "revision" : "38dfdbf978d444558b5efb68d2c4c949adccc40b",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "system",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nicolas-miari/System.git",
+      "state" : {
+        "revision" : "cc94d3f4754589ca23feca71136bd2d4a3c71a04",
+        "version" : "0.0.2"
+      }
+    },
+    {
+      "identity" : "transform",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nicolas-miari/Transform.git",
+      "state" : {
+        "revision" : "884ac78dc5f9044caf5e5bc50454d75cfbce2c9e",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}

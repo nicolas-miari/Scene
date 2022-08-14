@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/nicolas-miari/Component.git",
       "state" : {
-        "revision" : "02a14fe587102ee46a97cf4461b4cf6d6da4e9cd",
-        "version" : "0.0.2"
+        "revision" : "0d9817c438eb1b12720ac6376d24bc028bcfc2fd",
+        "version" : "1.0.0"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/nicolas-miari/Dynamics.git",
       "state" : {
-        "revision" : "6e20003c74569c104ff00bef3012e14ccf0a91a5",
-        "version" : "0.0.1"
+        "revision" : "f8fa07a70d4ee4d70f7d0f4d32ac2e97fab4fbe6",
+        "version" : "1.0.0"
       }
     },
     {
@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/nicolas-miari/Entity.git",
       "state" : {
-        "revision" : "0f2f06379561fcd28d596b18010e2981ad2468ed",
-        "version" : "0.0.0"
+        "revision" : "8179833d52589c75d8a9a443f47655d35d01484a",
+        "version" : "1.0.0"
       }
     },
     {
@@ -50,8 +50,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/nicolas-miari/RigidBody.git",
       "state" : {
-        "revision" : "38dfdbf978d444558b5efb68d2c4c949adccc40b",
-        "version" : "0.0.1"
+        "revision" : "44217cc927c8ee26f5a7d68facec3321fe482339",
+        "version" : "1.0.0"
       }
     },
     {
@@ -59,8 +59,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/nicolas-miari/System.git",
       "state" : {
-        "revision" : "cc94d3f4754589ca23feca71136bd2d4a3c71a04",
-        "version" : "0.0.2"
+        "revision" : "7d5527790f01520a63ad5dd8ba993a605c1120e8",
+        "version" : "1.0.0"
       }
     },
     {
@@ -68,8 +68,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/nicolas-miari/Transform.git",
       "state" : {
-        "revision" : "884ac78dc5f9044caf5e5bc50454d75cfbce2c9e",
-        "version" : "0.0.1"
+        "revision" : "14417494fd290fc7179e628bb7b135b1e8fe0de4",
+        "version" : "1.0.0"
       }
     }
   ],
